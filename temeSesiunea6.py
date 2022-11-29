@@ -107,4 +107,5 @@ class Cont:
         self.sold = self.sold + suma
 
 cont1 = Cont('RO70PORL1851589282479371', 'Costantea Andrei', 5000)
+cont1.afisareSold()
 # iban luat random de pe randomiban.com
